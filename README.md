@@ -39,12 +39,12 @@ I am currently looking for a mid-level software development, backend, DevOps, pl
 
 | Project | What it demonstrates | Build status |
 | --- | --- | --- |
-| [Incident Operations Platform](https://github.com/German4341374/incident-operations-platform) | Fastify API, PostgreSQL full-text search, Redis queues, SLA escalation, optimistic locking, and audit history | [![CI](https://github.com/German4341374/incident-operations-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/incident-operations-platform/actions/workflows/ci.yml) |
-| [Service Reliability Watchdog](https://github.com/German4341374/service-reliability-watchdog) | HTTP, TCP, DNS, and TLS monitoring with worker pools, circuit breaking, SLOs, Prometheus, and PostgreSQL | [![CI](https://github.com/German4341374/service-reliability-watchdog/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/service-reliability-watchdog/actions/workflows/ci.yml) |
+| [Event Driven Order Platform](https://github.com/German4341374/event-driven-order-platform) | Transactional outbox, Kafka-compatible Redpanda, durable sagas, idempotent consumers, optimistic locking, and dead-letter recovery | [![CI](https://github.com/German4341374/event-driven-order-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/event-driven-order-platform/actions/workflows/ci.yml) |
+| [Cloud Native Observability Lab](https://github.com/German4341374/cloud-native-observability-lab) | OpenTelemetry traces and metrics, Prometheus alerts, Grafana dashboards, Loki logs, Tempo traces, SLO burn rates, and controlled failures | [![CI](https://github.com/German4341374/cloud-native-observability-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/cloud-native-observability-lab/actions/workflows/ci.yml) |
+| [Zero Trust API Gateway](https://github.com/German4341374/zero-trust-api-gateway) | OIDC and JWKS validation, Keycloak, OPA policy-as-code, Redis rate limiting, tenant isolation, safe proxying, and fail-closed recovery | [![CI](https://github.com/German4341374/zero-trust-api-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/zero-trust-api-gateway/actions/workflows/ci.yml) |
 | [Local Kubernetes Three Tier Platform](https://github.com/German4341374/kind-three-tier-platform) | kind, Kustomize overlays, Ingress, probes, autoscaling, network policies, smoke tests, and rollback | [![Kubernetes CI](https://github.com/German4341374/kind-three-tier-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/kind-three-tier-platform/actions/workflows/ci.yml) |
 | [Terraform AWS Production Environment](https://github.com/German4341374/terraform-aws-production-environment) | Modular VPC and ECS architecture, static validation, security scanning, and safe cost-aware deployment design | [![Terraform CI](https://github.com/German4341374/terraform-aws-production-environment/actions/workflows/terraform.yml/badge.svg)](https://github.com/German4341374/terraform-aws-production-environment/actions/workflows/terraform.yml) |
 | [FastAPI CI/CD Pipeline](https://github.com/German4341374/fastapi-cicd-pipeline) | Reusable GitHub Actions, tests, coverage, secret and vulnerability scanning, SBOM, GHCR, and rollback documentation | [![Pull Request Pipeline](https://github.com/German4341374/fastapi-cicd-pipeline/actions/workflows/pull-request.yml/badge.svg)](https://github.com/German4341374/fastapi-cicd-pipeline/actions/workflows/pull-request.yml) |
-| [Distributed Log Intelligence](https://github.com/German4341374/distributed-log-intelligence) | Streaming log analysis, correlation tracing, anomaly detection, PII redaction, typed CLI design, and CI reports | [![CI](https://github.com/German4341374/distributed-log-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/German4341374/distributed-log-intelligence/actions/workflows/ci.yml) |
 
 ## Engineering approach
 
@@ -57,7 +57,7 @@ I am currently looking for a mid-level software development, backend, DevOps, pl
 ## Current focus
 
 - Deepening TypeScript and Node.js backend engineering.
-- Practicing production diagnostics, distributed-system failure handling, and database performance.
+- Practicing event-driven architecture, production observability, zero-trust authorization, and distributed-system failure handling.
 - Improving Kubernetes, Terraform, CI/CD, and platform engineering skills through tested projects.
 
 <p align="center">
