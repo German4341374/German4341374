@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="GermanSed — Junior Software Developer focused on backend, DevOps, and automation">
+  <img src="assets/profile-header.svg" width="100%" alt="GermanSed — Mid-Level Software Developer focused on backend, DevOps, and automation">
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 ## About me
 
-I am a junior software developer building reliable backend services, automation tools, and local-first infrastructure projects. My portfolio focuses on practical engineering: tested APIs, observable systems, secure delivery pipelines, reproducible environments, and clear operational documentation.
+I am a mid-level software developer building reliable backend services, automation tools, and local-first infrastructure projects. My portfolio focuses on practical engineering: tested APIs, observable systems, secure delivery pipelines, reproducible environments, and clear operational documentation.
 
-I am currently looking for a junior developer, backend, DevOps, platform engineering, or application support opportunity where I can contribute, learn from code review, and grow through real production work.
+I am currently looking for a mid-level software development, backend, DevOps, platform engineering, or application support opportunity where I can contribute to real production work and continue growing through strong engineering practice.
 
 ## Primary toolkit
 
@@ -61,6 +61,6 @@ I am currently looking for a junior developer, backend, DevOps, platform enginee
 - Improving Kubernetes, Terraform, CI/CD, and platform engineering skills through tested projects.
 
 <p align="center">
-  <strong>Open to junior software development and DevOps opportunities.</strong><br>
+  <strong>Open to mid-level software development and DevOps opportunities.</strong><br>
   Explore the pinned repositories for architecture notes, tests, demos, and runbooks.
 </p>
