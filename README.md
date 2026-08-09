@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="GermanSed — Mid-Level Software Developer focused on backend, DevOps, and automation">
+  <img src="assets/profile-header.png" width="100%" alt="GermanSed profile banner">
 </p>
 
 <p align="center">
