@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.png" width="100%" alt="GermanSed profile banner">
+  <img src="assets/profile-header.png" width="420" alt="GermanSed profile banner">
 </p>
 
 <p align="center">
