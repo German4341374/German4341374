@@ -41,4 +41,4 @@ keep growing through code review and production experience.
 `Redis` · `Docker` · `Kubernetes` · `Terraform` · `Ansible` · `GitHub Actions`
 
 Most repositories include a short setup guide, automated checks and a local
-demo. The pinned projects are the best place to start.
+demo. The selected projects above are the best place to start.
