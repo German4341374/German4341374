@@ -1,39 +1,35 @@
 # German Sed
 
-Backend developer working with TypeScript, Node.js, Go, Python and PostgreSQL. I
-like projects where the interesting part is not just the endpoint, but everything
-around it: failure handling, observability, migrations, repeatable builds and
-clear runbooks.
+Hi, I'm German. I work on backend apps and tools with TypeScript, Go, Python, and PostgreSQL.
+I like figuring out why something broke and making it easier to run, test, and fix next time.
 
-I am looking for a backend or DevOps role where I can work on real services and
-keep growing through code review and production experience.
+I'm looking for a backend or DevOps role. Below are a few projects you can look through
+or try locally.
 
-## Selected work
+## A few projects to start with
 
-- [HTTP Repro Lab](https://github.com/German4341374/http-repro-lab) turns
-  captured HTTP traffic into sanitized, reproducible test cases. A live build is
-  available on [GitHub Pages](https://german4341374.github.io/http-repro-lab/).
+- [HTTP Repro Lab](https://github.com/German4341374/http-repro-lab) helps turn a
+  captured request into a test you can run again. Try the
+  [browser demo](https://german4341374.github.io/http-repro-lab/).
 - [Support Bundle Analyzer](https://github.com/German4341374/support-bundle-analyzer)
-  inspects diagnostic archives locally, builds a timeline and flags likely
-  problems without uploading customer data. See the
+  sorts through logs and diagnostic files, puts events on a timeline, and points
+  to things worth checking. It works locally. See the
   [live demo](https://german4341374.github.io/support-bundle-analyzer/).
 - [Event Driven Order Platform](https://github.com/German4341374/event-driven-order-platform)
-  explores transactional outbox, idempotent consumers, sagas and recovery from
-  partial failure.
+  lets you place an order and watch what happens when payment fails or a message
+  gets delivered twice.
 - [Zero Trust API Gateway](https://github.com/German4341374/zero-trust-api-gateway)
-  combines OIDC, policy-based authorization, rate limiting and fail-closed
-  dependency handling.
+  is a place to try access rules, tokens, and rate limits in front of an API.
 - [Cloud Native Observability Lab](https://github.com/German4341374/cloud-native-observability-lab)
-  connects traces, metrics and logs across a small distributed system and
-  includes controlled failure scenarios.
+  lets you break a small app on purpose and follow its logs, metrics, and traces
+  in Grafana.
 
-## How I work
+## What I pay attention to
 
-- Keep the first version small enough to understand end to end.
-- Test the business rules and the failure paths, not only the happy path.
-- Make local setup repeatable with containers and simple commands.
-- Document trade-offs, rollback steps and known limitations honestly.
-- Treat logs, health checks and migrations as part of the application.
+I want someone else to be able to clone a project, run it, and understand what's
+going on. That means useful tests, a setup guide that matches the code, and logs
+that help when things fail. I also write down the rough edges and how to undo a
+change.
 
 ## Tools I use most
 
